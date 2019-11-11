@@ -15,6 +15,10 @@ import us.ihmc.yoVariables.variable.YoInteger;
 
 public class LipmController implements RobotController {
 
+	public LipmController(LipmRobot rob, String name) {
+		
+	}
+	
 	public void doControl() {
 
 	}
